@@ -1,3 +1,3 @@
-# WarningOn[Legav]
+# WarningAbout[Legav]
 
 Rebase master.
